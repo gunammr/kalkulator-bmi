@@ -1,6 +1,4 @@
 "Program Kalkulator BMI"
-#batas bawah : 18.5
-#batas atas : 25
 
 print("Selamat Datang Di Program Kalkulator BMI ( Body Mass Index )")
 print("------------------------------------------------------------")
